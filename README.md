@@ -1,6 +1,6 @@
 # Programação para Dispositivos Móveis (PDM)
 
-Repositório dedicado à resolução dos exercícios práticos da unidade curricular de Programação para Dispositivos Móveis, desenvolvidos em Dart.
+Repositório dedicado à resolução dos exercícios práticos da unidade curricular de **Programação para Dispositivos Móveis**, desenvolvidos em **Dart**.
 
 ---
 
